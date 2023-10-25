@@ -20,7 +20,7 @@ const myFunc3 = () => {
   console.log("Hello world using Arrow function");
 };
 
-// Anonymous Function
+// Anonymous Function (IIFE - Immediately Invoked Function Expression)
 (function () {
   console.log("Hello world using Anonymous Function");
 })();
